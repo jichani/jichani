@@ -3,14 +3,18 @@
 <br/>
 
 <span>
-  <img src="https://github-readme-stats.vercel.app/api?username=jichani&theme=tokyonight&show_icons=true" width="50%" />
-</span>
-<span>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jichani&exclude_repo=jichani.github.io&layout=compact&theme=tokyonight" />
 </span>
 <span>
-  <img src="https://komarev.com/ghpvc/?username=jichani&label=Profile%20views&color=575757&style=plastic" alt="jichani" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jichani&theme=tokyonight&show_icons=true" width="45%" />
 </span>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jichani&theme=tokyonight&locale=en)](https://git.io/streak-stats)
+
+
+
+
+
 
 <!--
 **jichani/jichani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
