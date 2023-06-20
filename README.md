@@ -3,7 +3,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jichani&show_icons=true&locale=en&layout=compact" alt="jichani" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jichani&label=Profile%20views&color=0e75b6&style=flat" alt="jichani" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jichani&label=Profile%20views&color=575757&style=plastic" alt="jichani" /> </p>
 
 <!--
 **jichani/jichani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
