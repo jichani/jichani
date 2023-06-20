@@ -3,7 +3,7 @@
 <br/>
 
 <span>
-  <img src="https://github-readme-stats.vercel.app/api?username=jichani&theme=tokyonight&show_icons=true" width="39%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jichani&theme=tokyonight&show_icons=true" width="41%" />
 </span>
 <span>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jichani&exclude_repo=jichani.github.io&layout=compact&theme=tokyonight" />
