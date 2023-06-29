@@ -15,14 +15,6 @@
 </p>
 
 <br />
-
-<span>
-  <img src="https://github-readme-stats-kappa-gules-97.vercel.app/api/top-langs/?username=jichani&exclude_repo=jichani.github.io&layout=compact&theme=tokyonight" />
-</span>
-<span>
-  <img src="https://github-readme-stats-kappa-gules-97.vercel.app/api?username=jichani&theme=tokyonight&show_icons=true" width="47%" />
-</span>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jichani&theme=tokyonight&locale=en)](https://git.io/streak-stats)
 
 
