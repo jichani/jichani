@@ -2,12 +2,28 @@
 
 <br />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jichani&theme=tokyonight&locale=en)](https://git.io/streak-stats)
+안녕하세요 👋🏻  
+즐거운 개발자 **임지찬** 이에요 🧑🏻‍💻 
 
+## ⚙️ Tech
+### Front
+- HTML5, CSS3, JavaScript, React.js
+- Styled-Component, Sass, Tailwind, Bootstrap
 
+### Back
+- Node.js, Express.js, PHP, .NET(C#)
+- Mongoose
+- MySQL, MariaDB, MongoDB
 
+### DevOps
+- Git/GitHub
 
+### Cloud
+- *AWS* RDS
 
+### Language
+- JavaScript, C#...
+- SQL
 
 <!--
 **jichani/jichani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
