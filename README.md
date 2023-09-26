@@ -19,8 +19,11 @@
 - Git/GitHub
 
 ### Cloud
-- *AWS* RDS
+- *AWS* RDS, cloudtype
 
+### Platform
+- firebase
+  
 ### Language
 - JavaScript, C#...
 - SQL
