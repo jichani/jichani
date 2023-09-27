@@ -11,7 +11,7 @@
 - Styled-Component, Sass, Tailwind, Bootstrap
 
 ### Back
-- Node.js, Express.js, PHP, .NET(C#)
+- Node.js, Express.js, PHP
 - Mongoose
 - MySQL, MariaDB, MongoDB
 
