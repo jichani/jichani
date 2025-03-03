@@ -7,25 +7,25 @@
 
 ## ⚙️ Tech
 ### Front
-- HTML5, CSS3, JavaScript, React.js
+- HTML5, CSS3, JavaScript, .Net Web
 - Styled-Component, Sass, Tailwind, Bootstrap
 
 ### Back
-- Node.js, Express.js, PHP
+- Node.js, Express.js, PHP, .Net
 - Mongoose
-- MySQL, MariaDB, MongoDB
+- MySQL, MariaDB, MongoDB, MSSQL
 
 ### DevOps
 - Git/GitHub
 
 ### Cloud
-- *AWS* RDS, cloudtype
+- *AWS* RDS
 
 ### Platform
 - firebase
   
 ### Language
-- JavaScript, C#...
+- JavaScript, C#
 - SQL
 
 <!--
